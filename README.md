@@ -1,2 +1,2 @@
-# poster
-Python bot to post on Twitter for me.
+# Poster
+Simple Python script to post on Twitter for me because I am too lazy.
